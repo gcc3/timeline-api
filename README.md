@@ -1,6 +1,6 @@
 
-API Simile Widgets
-==================
+Timeline API
+============
 
 Backup from api.simile-widgets.org  
 For timeline project use  
