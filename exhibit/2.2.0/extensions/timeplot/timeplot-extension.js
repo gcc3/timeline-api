@@ -27,7 +27,7 @@ Exhibit.TimeplotExtension = {
     var paramTypes = { bundle: Boolean };
     SimileAjax.parseURLParameters(url, Exhibit.TimeplotExtension.params, paramTypes);
         
-    var scriptURLs = [ "http://api.simile-widgets.org/timeplot/1.1/timeplot-api.js" ];
+    var scriptURLs = [ "https://timeline-api.gcc3.com/timeplot/1.1/timeplot-api.js" ];
     var cssURLs = [];
         
     if (Exhibit.TimeplotExtension.params.bundle) {

@@ -15,7 +15,7 @@
  *       defaults to google (v3)
  *  gmapKey: only necessary when using google2 service
  *  mapPrefix <String>: Which host to find Timeline, defaults to
- *    "http://api.simile-widgets.org"
+ *    "https://timeline-api.gcc3.com"
  */
 
 (function() {
@@ -33,7 +33,7 @@
                 "bundle": true,
                 "gmapKey": null,
                 "service": "google",
-                "mapPrefix": "http://api.simile-widgets.org"
+                "mapPrefix": "https://timeline-api.gcc3.com"
             },
             "urlPrefix": null,
             "markerUrlPrefix" :"http://service.simile-widgets.org/painter/painter?",

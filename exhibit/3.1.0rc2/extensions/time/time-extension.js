@@ -9,7 +9,7 @@
  * parameters are:
  *  bundle [true|false]: load extension files one by one or bundled in one file
  *  timelinePrefix <String>: Which host to find Timeline, defaults to
- *    "http://api.simile-widgets.org"
+ *    "https://timeline-api.gcc3.com"
  *  timelineVersion <String>: Which version of Timeline to use, defaults to
  *    "2.3.1"
  */

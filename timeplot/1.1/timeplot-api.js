@@ -2,7 +2,7 @@
  *  Simile Timeplot API
  *
  *  Include Timeplot in your HTML file as follows:
- *    <script src="http://api.simile-widgets.org/timeplot/1.1/timeplot-api.js" type="text/javascript"></script>
+ *    <script src="https://timeline-api.gcc3.com/timeplot/1.1/timeplot-api.js" type="text/javascript"></script>
  *
  *==================================================*/
 
@@ -154,7 +154,7 @@
         if (typeof Timeline != "undefined") {
             loadTimeplot();
         } else {
-            var timelineURL = "http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true";
+            var timelineURL = "https://timeline-api.gcc3.com/timeline/2.3.1/timeline-api.js?bundle=true";
             window.SimileAjax_onLoad = loadTimeplot;
             SimileAjax.includeJavascriptFile(document, timelineURL);
         }
@@ -164,7 +164,7 @@
     if (typeof SimileAjax == "undefined") {
         window.SimileAjax_onLoad = loadTimeline;
         
-        var url = "http://api.simile-widgets.org/ajax/2.2.1/simile-ajax-api.js?bundle=true";
+        var url = "https://timeline-api.gcc3.com/ajax/2.2.1/simile-ajax-api.js?bundle=true";
                 
         var createScriptElement = function() {
             var script = document.createElement("script");
