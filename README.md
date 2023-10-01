@@ -2,5 +2,6 @@
 Timeline API
 ============
 
-Backup for [api.simile-widgets.org](api.simile-widgets.org)  
-Thanks for the original developers.  
+Backup for [api.simile-widgets.org](http://api.simile-widgets.org)  
+
+__Thanks for the original developers.__  
